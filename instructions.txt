@@ -7,3 +7,5 @@ Instructions
 4. Submit pull request.
 5. Verify that your changes have been merged.
 6. Pull the repo to confirm.
+
+*** end of instructions ***
